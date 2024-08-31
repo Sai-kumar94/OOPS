@@ -35,6 +35,3 @@ def prime_number():
             else:
                 print(n)
 prime_number()
-
-
-
